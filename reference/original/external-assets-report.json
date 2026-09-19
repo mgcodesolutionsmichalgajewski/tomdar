@@ -1,0 +1,156 @@
+[
+  {
+    "source": "http://www.budrex.pl/katalog.pdf",
+    "local": "/assets/documents/katalog-b3ea884b.pdf",
+    "sha256": "b3ea884b3e270d69cf4f4d6bc40860b594c0f271435e25dbb0f6739897e40a52",
+    "bytes": 87624470,
+    "mime": "application/pdf",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-drewniane.html"
+    ],
+    "status": "saved"
+  },
+  {
+    "source": "http://www.dotiie.pl/files/documents/katalog-drzwi-DOTIIE-2020.pdf",
+    "local": "/assets/documents/katalog-drzwi-DOTIIE-2020-b6bf274e.pdf",
+    "sha256": "b6bf274eed5e8aaf4d7e76645375fbd3f8a83426aec6b914fb3b533bf026629c",
+    "bytes": 14783146,
+    "mime": "application/pdf",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ],
+    "status": "saved"
+  },
+  {
+    "source": "http://www.setto.pl/img/cms/katalog/katalog-drzwi-zewnetrznych-setto-2020-2021.pdf",
+    "local": "/assets/documents/katalog-drzwi-zewnetrznych-setto-2020-2021-7248bccf.pdf",
+    "sha256": "7248bccff4bdf13dc86c555b34cbd3171892a13f6adef508670ca64d7dad0a09",
+    "bytes": 23911359,
+    "mime": "application/pdf",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-drewniane.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-drewniane.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-stalowe.html"
+    ],
+    "status": "saved"
+  },
+  {
+    "source": "https://d3mtmn4lo37cs8.cloudfront.net/files/katalogi/Katalogi/Katalog%20Baranski%20Premium%20wewnetrzne%202023%20-%2001_09_2023%20wer14.pdf",
+    "status": "unavailable",
+    "reason": "<urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-drewniane.html"
+    ]
+  },
+  {
+    "source": "https://d3mtmn4lo37cs8.cloudfront.net/files/katalogi/Katalogi/Katalog%20OPTIMO%202023_04_04%20wer2.pdf",
+    "status": "unavailable",
+    "reason": "<urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ]
+  },
+  {
+    "source": "https://dre.pl/files/Katalog-DRE-2023-edycja-1.pdf",
+    "local": "/assets/documents/Katalog-DRE-2023-edycja-1-330ffcfe.pdf",
+    "sha256": "330ffcfe513ea5acbdfe635374de14da32c8bcdd01ee6a7afd8056b6d45b67ea",
+    "bytes": 50564063,
+    "mime": "application/pdf",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ],
+    "status": "saved"
+  },
+  {
+    "source": "https://gerda.pl/wp-content/uploads/2021/02/GERDA-Katalog-Drzwi-NTT-TT-02-2021_web.pdf",
+    "status": "unavailable",
+    "reason": "URL does not return a PDF or image",
+    "referencedBy": [
+      "https://tomdarokna.pl/bramy-garazowe-kutno.html",
+      "https://tomdarokna.pl/bramy-garazowe-lodz.html",
+      "https://tomdarokna.pl/bramy-garazowe-lowicz.html",
+      "https://tomdarokna.pl/bramy-garazowe-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/bramy-garazowe-skierniewice.html",
+      "https://tomdarokna.pl/bramy-garazowe.html",
+      "https://tomdarokna.pl/bramy-segmentowe-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/bramy-segmentowe-kutno.html",
+      "https://tomdarokna.pl/bramy-segmentowe-lodz.html",
+      "https://tomdarokna.pl/bramy-segmentowe-lowicz.html",
+      "https://tomdarokna.pl/bramy-segmentowe-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/bramy-segmentowe-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-drewniane.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-drewniane.html",
+      "https://tomdarokna.pl/markizy-moskitiery.html",
+      "https://tomdarokna.pl/parapety.html",
+      "https://tomdarokna.pl/rolety.html",
+      "https://tomdarokna.pl/schody-strychowe.html",
+      "https://tomdarokna.pl/zaluzje.html"
+    ]
+  },
+  {
+    "source": "https://gerda.pl/wp-content/uploads/2021/07/KATALOG-DDD-PL-03-2023_www.pdf",
+    "local": "/assets/documents/KATALOG-DDD-PL-03-2023_www-9f46bd60.pdf",
+    "sha256": "9f46bd604028d7baf0ade01a71c2c552f81079e415c683d6f253d2cdc9c57bdb",
+    "bytes": 20631271,
+    "mime": "application/pdf",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-zewnetrzne-stalowe.html"
+    ],
+    "status": "saved"
+  },
+  {
+    "source": "https://wiked.pl/wp-content/uploads/2023/03/KATALOG_WIKED_2022.pdf",
+    "status": "unavailable",
+    "reason": "HTTP Error 404: Not Found",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-zewnetrzne-stalowe.html"
+    ]
+  },
+  {
+    "source": "https://www.drzwivasco.pl/Folder-VASCO-edycja-21-FACH-2023-1.pdf",
+    "local": "/assets/documents/Folder-VASCO-edycja-21-FACH-2023-1-e42b21b6.pdf",
+    "sha256": "e42b21b6c5ee9904d1be1641a3f6856939127946d5f873e6af8cf008dd10f2e8",
+    "bytes": 5499271,
+    "mime": "application/pdf",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ],
+    "status": "saved"
+  },
+  {
+    "source": "https://www.futryna.com.pl/public/media/files/katalogi/Katalog_Drzwi_2023_wer__on-line_72dpi.pdf",
+    "status": "unavailable",
+    "reason": "HTTP Error 404: Not Found",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-zewnetrzne-stalowe.html"
+    ]
+  },
+  {
+    "source": "https://www.futryna.com.pl/wp-content/uploads/2021/02/Stalprodukt_katalog-drzwi-2021_for-web_96-dpi_cmyk.pdf",
+    "status": "unavailable",
+    "reason": "HTTP Error 404: Not Found",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-drewniane.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-drewniane.html"
+    ]
+  },
+  {
+    "source": "https://www.pol-skone.pl/katalog_lepsze_wnetrze_2023_I_PL.pdf",
+    "status": "unavailable",
+    "reason": "HTTP Error 404: Not Found",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ]
+  },
+  {
+    "source": "https://www.porta.com.pl/phavi/at/upl/2023/0621/0634-katalog-porta-2023-2-pl.pdf?_gl=1*1cb0m6r*_up*MQ..*_ga*MjI2MDA1NjIzLjE2ODc1MjE4NDc.*_ga_XPTD542SW2*MTY4NzUyMTg0Ni4xLjEuMTY4NzUyMTg1MC4wLjAuMA..*_ga_RVLD2VQYC0*MTY4NzUyMTg0Ni4xLjEuMTY4NzUyMTg1MC4wLjAuMA..",
+    "local": "/assets/documents/0634-katalog-porta-2023-2-pl-324b653d.pdf",
+    "sha256": "324b653d50f0f22dda6ea528915eef15a96c111c8aa58d8ae9aad4b9025b86b2",
+    "bytes": 28575098,
+    "mime": "application/pdf",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ],
+    "status": "saved"
+  }
+]

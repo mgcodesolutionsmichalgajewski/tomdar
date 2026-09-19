@@ -1,0 +1,2709 @@
+[
+  {
+    "source": "https://tomdarokna.pl/Katalog-Baranski-Drzwi-Zewnetrzne.pdf",
+    "local": "/assets/documents/Katalog-Baranski-Drzwi-Zewnetrzne-280b49ac.pdf",
+    "sha256": "280b49ac7eae6313b7653fa47b4eef4b8d2187377298d96fa3ee9d6a8e657000",
+    "bytes": 10258453,
+    "mime": "application/pdf",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-zewnetrzne-drewniane.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/Metal-Bud-Katalog-Drzwi-Zewnetrzne.pdf",
+    "local": "/assets/documents/Metal-Bud-Katalog-Drzwi-Zewnetrzne-381fd2e3.pdf",
+    "sha256": "381fd2e3f9e7013978e0b28cde96e62787cc149811dc560866f5123787f2a4c5",
+    "bytes": 15019977,
+    "mime": "application/pdf",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-zewnetrzne-drewniane.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/fonts/boxicons.eot",
+    "local": "/assets/fonts/boxicons-59a19b09.eot",
+    "sha256": "59a19b09902af8e8cd90676c04b5ec59403800afc000ee7a138bce1c870ae7e2",
+    "bytes": 229712,
+    "mime": "application/vnd.ms-fontobject",
+    "referencedBy": [
+      "https://tomdarokna.pl/assets/css/style.min.css"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/fonts/boxicons.svg",
+    "local": "/assets/icons/boxicons-682859f4.svg",
+    "sha256": "682859f4aa366682f10e6715bef2bdd4e9c1b9aaa8cd4cb5133abef35bea0d44",
+    "bytes": 816268,
+    "mime": "image/svg+xml",
+    "referencedBy": [
+      "https://tomdarokna.pl/assets/css/style.min.css"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/fonts/boxicons.ttf",
+    "local": "/assets/fonts/boxicons-d4f26eb9.ttf",
+    "sha256": "d4f26eb95cb1ccfdc09e842d3da7b46577bd114633fa19df1a16cea992192568",
+    "bytes": 229544,
+    "mime": "font/ttf",
+    "referencedBy": [
+      "https://tomdarokna.pl/assets/css/style.min.css"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/fonts/boxicons.woff",
+    "local": "/assets/fonts/boxicons-a73a4349.woff",
+    "sha256": "a73a434917a00dac3263e78d16deb3bc1f6d8b96b3ff09b32b2d378d0b254a7b",
+    "bytes": 229620,
+    "mime": "font/woff",
+    "referencedBy": [
+      "https://tomdarokna.pl/assets/css/style.min.css"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/fonts/boxicons.woff2",
+    "local": "/assets/fonts/boxicons-36684388.woff2",
+    "sha256": "366843886488797c37eed1566f4df94fba023b250aa50a081cfb6c329e516b8b",
+    "bytes": 81388,
+    "mime": "font/woff2",
+    "referencedBy": [
+      "https://tomdarokna.pl/assets/css/style.min.css"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/fonts/fontawesome-webfont.eot",
+    "local": "/assets/fonts/fontawesome-webfont-7bfcab6d.eot",
+    "sha256": "7bfcab6db99d5cfbf1705ca0536ddc78585432cc5fa41bbd7ad0f009033b2979",
+    "bytes": 165742,
+    "mime": "application/vnd.ms-fontobject",
+    "referencedBy": [
+      "https://tomdarokna.pl/assets/css/style.min.css"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/fonts/fontawesome-webfont.eot?v=4.7.0",
+    "local": "/assets/fonts/fontawesome-webfont-7bfcab6d.eot",
+    "sha256": "7bfcab6db99d5cfbf1705ca0536ddc78585432cc5fa41bbd7ad0f009033b2979",
+    "bytes": 165742,
+    "mime": "application/vnd.ms-fontobject",
+    "referencedBy": [
+      "https://tomdarokna.pl/assets/css/style.min.css"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/fonts/fontawesome-webfont.svg?v=4.7.0",
+    "local": "/assets/icons/fontawesome-webfont-ad615792.svg",
+    "sha256": "ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4",
+    "bytes": 444379,
+    "mime": "image/svg+xml",
+    "referencedBy": [
+      "https://tomdarokna.pl/assets/css/style.min.css"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/fonts/fontawesome-webfont.ttf?v=4.7.0",
+    "local": "/assets/fonts/fontawesome-webfont-aa58f33f.ttf",
+    "sha256": "aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8",
+    "bytes": 165548,
+    "mime": "font/ttf",
+    "referencedBy": [
+      "https://tomdarokna.pl/assets/css/style.min.css"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/fonts/fontawesome-webfont.woff2?v=4.7.0",
+    "local": "/assets/fonts/fontawesome-webfont-2adefcbc.woff2",
+    "sha256": "2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe",
+    "bytes": 77160,
+    "mime": "font/woff2",
+    "referencedBy": [
+      "https://tomdarokna.pl/assets/css/style.min.css"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/fonts/fontawesome-webfont.woff?v=4.7.0",
+    "local": "/assets/fonts/fontawesome-webfont-ba0c59de.woff",
+    "sha256": "ba0c59deb5450f5cb41b3f93609ee2d0d995415877ddfa223e8a8a7533474f07",
+    "bytes": 98024,
+    "mime": "font/woff",
+    "referencedBy": [
+      "https://tomdarokna.pl/assets/css/style.min.css"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/404-1.jpg",
+    "local": "/assets/photos/404-1-d62c2e97.jpg",
+    "sha256": "d62c2e97e7e360d4083fe529aa9676e5646bd630c16ede1ce2d254176cc376b8",
+    "bytes": 2098809,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/assets/css/style.min.css"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/about.jpg",
+    "local": "/assets/photos/about-3ae3319a.jpg",
+    "sha256": "3ae3319a22d660e2fe32083d3ba02ed370dad419835a2d61b6a4f3fecd011ab1",
+    "bytes": 144254,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/assets/css/style.min.css",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/drzwi-pcv-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-pcv-kutno.html",
+      "https://tomdarokna.pl/drzwi-pcv-lodz.html",
+      "https://tomdarokna.pl/drzwi-pcv-lowicz.html",
+      "https://tomdarokna.pl/drzwi-pcv-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-pcv-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/o-nas.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/bg-1.jpg",
+    "local": "/assets/photos/bg-1-e31d1f2b.jpg",
+    "sha256": "e31d1f2be1c747409830cf9fcc9c6e6033fd2e67ee8d97078c710bad3873e822",
+    "bytes": 778347,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/assets/css/style.min.css"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/bg-pagehead.jpg",
+    "local": "/assets/photos/bg-pagehead-15da7aed.jpg",
+    "sha256": "15da7aeda5636d92ca1c7e0252908b2fbedb57c8f3b172f708f96d6150f9a6d4",
+    "bytes": 465482,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/assets/css/style.min.css"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/bramaroletowa.jpg",
+    "local": "/assets/photos/bramaroletowa-945bbf57.jpg",
+    "sha256": "945bbf576b1ab0ed441dd0b01b1368429f31d80d644226bdd945982356b3e800",
+    "bytes": 23996,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/bramy-garazowe-kutno.html",
+      "https://tomdarokna.pl/bramy-garazowe-lodz.html",
+      "https://tomdarokna.pl/bramy-garazowe-lowicz.html",
+      "https://tomdarokna.pl/bramy-garazowe-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/bramy-garazowe-skierniewice.html",
+      "https://tomdarokna.pl/bramy-garazowe.html",
+      "https://tomdarokna.pl/bramy-segmentowe-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/bramy-segmentowe-kutno.html",
+      "https://tomdarokna.pl/bramy-segmentowe-lodz.html",
+      "https://tomdarokna.pl/bramy-segmentowe-lowicz.html",
+      "https://tomdarokna.pl/bramy-segmentowe-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/bramy-segmentowe-skierniewice.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/bramarozwierna.jpg",
+    "local": "/assets/photos/bramarozwierna-6c9bea23.jpg",
+    "sha256": "6c9bea23a50910fbec637c5d6ce2ef3aa7b9de2f9557227a840da4ab258ab8b8",
+    "bytes": 46780,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/bramy-garazowe-kutno.html",
+      "https://tomdarokna.pl/bramy-garazowe-lodz.html",
+      "https://tomdarokna.pl/bramy-garazowe-lowicz.html",
+      "https://tomdarokna.pl/bramy-garazowe-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/bramy-garazowe-skierniewice.html",
+      "https://tomdarokna.pl/bramy-garazowe.html",
+      "https://tomdarokna.pl/bramy-segmentowe-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/bramy-segmentowe-kutno.html",
+      "https://tomdarokna.pl/bramy-segmentowe-lodz.html",
+      "https://tomdarokna.pl/bramy-segmentowe-lowicz.html",
+      "https://tomdarokna.pl/bramy-segmentowe-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/bramy-segmentowe-skierniewice.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/bramauchylna.jpg",
+    "local": "/assets/photos/bramauchylna-a227cb92.jpg",
+    "sha256": "a227cb92c6e840071ad24f21dd15c6ce7ad39d2aa15730c85c465c78bf6b11ab",
+    "bytes": 27431,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/bramy-garazowe-kutno.html",
+      "https://tomdarokna.pl/bramy-garazowe-lodz.html",
+      "https://tomdarokna.pl/bramy-garazowe-lowicz.html",
+      "https://tomdarokna.pl/bramy-garazowe-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/bramy-garazowe-skierniewice.html",
+      "https://tomdarokna.pl/bramy-garazowe.html",
+      "https://tomdarokna.pl/bramy-segmentowe-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/bramy-segmentowe-kutno.html",
+      "https://tomdarokna.pl/bramy-segmentowe-lodz.html",
+      "https://tomdarokna.pl/bramy-segmentowe-lowicz.html",
+      "https://tomdarokna.pl/bramy-segmentowe-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/bramy-segmentowe-skierniewice.html",
+      "https://tomdarokna.pl/markizy-moskitiery.html",
+      "https://tomdarokna.pl/parapety.html",
+      "https://tomdarokna.pl/rolety.html",
+      "https://tomdarokna.pl/schody-strychowe.html",
+      "https://tomdarokna.pl/zaluzje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/bramykmt.jpg",
+    "local": "/assets/photos/bramykmt-1210c6f9.jpg",
+    "sha256": "1210c6f997e2266978713c0e57a99b95e562ffc03ecad73bedea047f79b677b9",
+    "bytes": 53195,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/bramy-garazowe-kutno.html",
+      "https://tomdarokna.pl/bramy-garazowe-lodz.html",
+      "https://tomdarokna.pl/bramy-garazowe-lowicz.html",
+      "https://tomdarokna.pl/bramy-garazowe-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/bramy-garazowe-skierniewice.html",
+      "https://tomdarokna.pl/bramy-garazowe.html",
+      "https://tomdarokna.pl/bramy-segmentowe-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/bramy-segmentowe-kutno.html",
+      "https://tomdarokna.pl/bramy-segmentowe-lodz.html",
+      "https://tomdarokna.pl/bramy-segmentowe-lowicz.html",
+      "https://tomdarokna.pl/bramy-segmentowe-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/bramy-segmentowe-skierniewice.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/bramysegmentowe.jpg",
+    "local": "/assets/photos/bramysegmentowe-2d3c1c34.jpg",
+    "sha256": "2d3c1c3424b7f7e83b81b6ccae049169e7d6aedccdc6ae05a9a73f7fae175133",
+    "bytes": 65491,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/bramy-garazowe-kutno.html",
+      "https://tomdarokna.pl/bramy-garazowe-lodz.html",
+      "https://tomdarokna.pl/bramy-garazowe-lowicz.html",
+      "https://tomdarokna.pl/bramy-garazowe-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/bramy-garazowe-skierniewice.html",
+      "https://tomdarokna.pl/bramy-garazowe.html",
+      "https://tomdarokna.pl/bramy-segmentowe-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/bramy-segmentowe-kutno.html",
+      "https://tomdarokna.pl/bramy-segmentowe-lodz.html",
+      "https://tomdarokna.pl/bramy-segmentowe-lowicz.html",
+      "https://tomdarokna.pl/bramy-segmentowe-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/bramy-segmentowe-skierniewice.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/contact-icon.svg",
+    "local": "/assets/icons/contact-icon-018637b3.svg",
+    "sha256": "018637b3e018f196c8bac1f8f36e10bffe0450d2451003033dfae5583c6ffce2",
+    "bytes": 980,
+    "mime": "image/svg+xml",
+    "referencedBy": [
+      "https://tomdarokna.pl/assets/css/style.min.css"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/counter-bg.jpg",
+    "local": "/assets/photos/counter-bg-57cfbb09.jpg",
+    "sha256": "57cfbb09d9c6f27d0c6bc54bc578ef90d43c3eb9e333ccf093df41b205d21c63",
+    "bytes": 1092028,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/assets/css/style.min.css"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/drzwibaranski-optimo.jpg",
+    "local": "/assets/photos/drzwibaranski-optimo-8f191a89.jpg",
+    "sha256": "8f191a897fc711df58cb5f54c265beeaf3054b9af7d7b69baadb6737d838d49f",
+    "bytes": 41319,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/drzwibaranski.jpg",
+    "local": "/assets/photos/drzwibaranski-7765bcde.jpg",
+    "sha256": "7765bcde777d5d8b2e314d577f72ee1b988f352cda2d27c5d2e51ee3de0b84b5",
+    "bytes": 92898,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-zewnetrzne-drewniane.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/drzwicenturion.jpg",
+    "local": "/assets/photos/drzwicenturion-22f5a445.jpg",
+    "sha256": "22f5a4457f79d17bebdf35728a5cd87568c2d94b70b2a0aaa4a3d20ba11ae5f5",
+    "bytes": 82316,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/drzwidotie.jpg",
+    "local": "/assets/photos/drzwidotie-22cc7fc0.jpg",
+    "sha256": "22cc7fc093922684beba0e3e8eec7419eb9a1fcfb1a7dd63e0d681d55a166949",
+    "bytes": 21053,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/drzwidre.jpg",
+    "local": "/assets/photos/drzwidre-f5b6dfad.jpg",
+    "sha256": "f5b6dfad89db2b91e017cae24b03e5b69db41424c95d03a71aa05fa003a76cc3",
+    "bytes": 47728,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/drzwidrewniane.jpg",
+    "local": "/assets/photos/drzwidrewniane-fd70633b.jpg",
+    "sha256": "fd70633b28bd70c75e8556798dcfd0f6652ea85cbbbd6aeda76867a09ac517c8",
+    "bytes": 57895,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-pcv-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-pcv-kutno.html",
+      "https://tomdarokna.pl/drzwi-pcv-lodz.html",
+      "https://tomdarokna.pl/drzwi-pcv-lowicz.html",
+      "https://tomdarokna.pl/drzwi-pcv-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-pcv-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/drzwidrewnianewew.jpg",
+    "local": "/assets/photos/drzwidrewnianewew-c509bb9e.jpg",
+    "sha256": "c509bb9e97eab2e4340cce84a787a0756fe878a33aa188bddfb6be2ff52314c0",
+    "bytes": 80744,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-drewniane.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/drzwierkado.jpg",
+    "local": "/assets/photos/drzwierkado-34f53ba4.jpg",
+    "sha256": "34f53ba411072d633ec262fe04fb089a45e82d5cac8bbc6be244458aee777558",
+    "bytes": 44431,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/drzwiplytowe.jpg",
+    "local": "/assets/photos/drzwiplytowe-42ee364a.jpg",
+    "sha256": "42ee364a3e42b97effcc8b78e8f64a488a48e658ff56a2a1b6c563f68b54261e",
+    "bytes": 10244,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-pcv-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-pcv-kutno.html",
+      "https://tomdarokna.pl/drzwi-pcv-lodz.html",
+      "https://tomdarokna.pl/drzwi-pcv-lowicz.html",
+      "https://tomdarokna.pl/drzwi-pcv-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-pcv-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/drzwipolskone.jpg",
+    "local": "/assets/photos/drzwipolskone-72d8c1be.jpg",
+    "sha256": "72d8c1be0045f85b0f77e50110e4f4f3cbe467087281315c7500f132e7de892f",
+    "bytes": 47972,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/drzwiporta.jpg",
+    "local": "/assets/photos/drzwiporta-ac786bf8.jpg",
+    "sha256": "ac786bf8cea4d0c8c30efde78b7b8e2c169cfe9ed4bc96f4209d1ce2bc679745",
+    "bytes": 49992,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/drzwistalowe.jpg",
+    "local": "/assets/photos/drzwistalowe-69e9ffc6.jpg",
+    "sha256": "69e9ffc65e106c3f83ad85ae81e175f002b2c7d10c23e109390eec6c22c6d103",
+    "bytes": 33680,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-pcv-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-pcv-kutno.html",
+      "https://tomdarokna.pl/drzwi-pcv-lodz.html",
+      "https://tomdarokna.pl/drzwi-pcv-lowicz.html",
+      "https://tomdarokna.pl/drzwi-pcv-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-pcv-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/drzwistalowegerda.jpg",
+    "local": "/assets/photos/drzwistalowegerda-12a7b8de.jpg",
+    "sha256": "12a7b8de1bc29227df15c74ac0958acb6837b7a8e1e8a17ea39762f0fd896e45",
+    "bytes": 50201,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/bramy-garazowe-kutno.html",
+      "https://tomdarokna.pl/bramy-garazowe-lodz.html",
+      "https://tomdarokna.pl/bramy-garazowe-lowicz.html",
+      "https://tomdarokna.pl/bramy-garazowe-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/bramy-garazowe-skierniewice.html",
+      "https://tomdarokna.pl/bramy-garazowe.html",
+      "https://tomdarokna.pl/bramy-segmentowe-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/bramy-segmentowe-kutno.html",
+      "https://tomdarokna.pl/bramy-segmentowe-lodz.html",
+      "https://tomdarokna.pl/bramy-segmentowe-lowicz.html",
+      "https://tomdarokna.pl/bramy-segmentowe-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/bramy-segmentowe-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-drewniane.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-drewniane.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-stalowe.html",
+      "https://tomdarokna.pl/markizy-moskitiery.html",
+      "https://tomdarokna.pl/parapety.html",
+      "https://tomdarokna.pl/rolety.html",
+      "https://tomdarokna.pl/schody-strychowe.html",
+      "https://tomdarokna.pl/zaluzje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/drzwistalowekmt.jpg",
+    "local": "/assets/photos/drzwistalowekmt-09ccd22a.jpg",
+    "sha256": "09ccd22ada4770b187a0f2bffd912b66e391a089af2cd81f220506782f6341a0",
+    "bytes": 55451,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-zewnetrzne-stalowe.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/drzwistalowesetto.jpg",
+    "local": "/assets/photos/drzwistalowesetto-46d233a4.jpg",
+    "sha256": "46d233a4da307918cc292f75e4492c7031854a8ca7ab951967eb22021adf154b",
+    "bytes": 58078,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-drewniane.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-drewniane.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-stalowe.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/drzwistalprodukt.jpg",
+    "local": "/assets/photos/drzwistalprodukt-eee40ccd.jpg",
+    "sha256": "eee40ccd0c1c3f22720f0c92fd72943bdce49a4a131c80126a3bca39dbeb8b86",
+    "bytes": 66605,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-drewniane.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-drewniane.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-stalowe.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/drzwivasco.jpg",
+    "local": "/assets/photos/drzwivasco-a03ac564.jpg",
+    "sha256": "a03ac5644084dbdc9ea6edc431222342489ba3953b3062f543f51de329a2d08f",
+    "bytes": 65632,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/drzwiwew-voster.jpg",
+    "local": "/assets/photos/drzwiwew-voster-0c5af27f.jpg",
+    "sha256": "0c5af27f254a890606376b30e0c69494deeb64395e7e6035083f4b4676804b27",
+    "bytes": 95386,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/drzwiwewbaranski.jpg",
+    "local": "/assets/photos/drzwiwewbaranski-8f486d63.jpg",
+    "sha256": "8f486d632504e7dc83b40f0f9064dc70ab50e6e6fc9a8b984318ad369d22496e",
+    "bytes": 59960,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-drewniane.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/drzwiwewdrewniane.jpg",
+    "local": "/assets/photos/drzwiwewdrewniane-4d9d0823.jpg",
+    "sha256": "4d9d08233badf9d33a9e43f514b19e2b414b2de34e38f03462c24707ebd2ca94",
+    "bytes": 46387,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-pcv-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-pcv-kutno.html",
+      "https://tomdarokna.pl/drzwi-pcv-lodz.html",
+      "https://tomdarokna.pl/drzwi-pcv-lowicz.html",
+      "https://tomdarokna.pl/drzwi-pcv-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-pcv-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/favicon.ico",
+    "local": "/assets/brand/favicon-8d2ab2fc.ico",
+    "sha256": "8d2ab2fc6c523719dfa7c1c3ff39d93f253066290bc21af6c7a80f91df3b9d3f",
+    "bytes": 318,
+    "mime": "image/x-icon",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/bramy-garazowe-kutno.html",
+      "https://tomdarokna.pl/bramy-garazowe-lodz.html",
+      "https://tomdarokna.pl/bramy-garazowe-lowicz.html",
+      "https://tomdarokna.pl/bramy-garazowe-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/bramy-garazowe-skierniewice.html",
+      "https://tomdarokna.pl/bramy-garazowe.html",
+      "https://tomdarokna.pl/bramy-segmentowe-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/bramy-segmentowe-kutno.html",
+      "https://tomdarokna.pl/bramy-segmentowe-lodz.html",
+      "https://tomdarokna.pl/bramy-segmentowe-lowicz.html",
+      "https://tomdarokna.pl/bramy-segmentowe-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/bramy-segmentowe-skierniewice.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/drzwi-pcv-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-pcv-kutno.html",
+      "https://tomdarokna.pl/drzwi-pcv-lodz.html",
+      "https://tomdarokna.pl/drzwi-pcv-lowicz.html",
+      "https://tomdarokna.pl/drzwi-pcv-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-pcv-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-drewniane.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-drewniane.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-stalowe.html",
+      "https://tomdarokna.pl/drzwi.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/kontakt.html",
+      "https://tomdarokna.pl/markizy-moskitiery.html",
+      "https://tomdarokna.pl/o-nas.html",
+      "https://tomdarokna.pl/okna-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/okna-aluminiowe-skierniewice.html",
+      "https://tomdarokna.pl/okna-drewniane-kutno.html",
+      "https://tomdarokna.pl/okna-energooszczedne-lodz.html",
+      "https://tomdarokna.pl/okna-kutno.html",
+      "https://tomdarokna.pl/okna-lowicz.html",
+      "https://tomdarokna.pl/okna-na-wymiar-lodz.html",
+      "https://tomdarokna.pl/okna-na-zamowienie-lodz.html",
+      "https://tomdarokna.pl/okna-pcv-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/okna-pcv-lodz.html",
+      "https://tomdarokna.pl/okna-pcv-lowicz.html",
+      "https://tomdarokna.pl/okna-pcv-skierniewice.html",
+      "https://tomdarokna.pl/okna-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/okna-skierniewice.html",
+      "https://tomdarokna.pl/okna.html",
+      "https://tomdarokna.pl/parapety.html",
+      "https://tomdarokna.pl/realizacje.html",
+      "https://tomdarokna.pl/rolety.html",
+      "https://tomdarokna.pl/schody-strychowe.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html",
+      "https://tomdarokna.pl/zaluzje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/flag.svg",
+    "local": "/assets/icons/flag-07a00be1.svg",
+    "sha256": "07a00be1ed0b66d2210b76af5e36c1b00fc1a8f902314dc8c8abddd2ca8a8612",
+    "bytes": 539,
+    "mime": "image/svg+xml",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/drzwi-pcv-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-pcv-kutno.html",
+      "https://tomdarokna.pl/drzwi-pcv-lodz.html",
+      "https://tomdarokna.pl/drzwi-pcv-lowicz.html",
+      "https://tomdarokna.pl/drzwi-pcv-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-pcv-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/o-nas.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/PHOTO-2025-11-05-21-27-02.jpg",
+    "local": "/assets/projects/PHOTO-2025-11-05-21-27-02-8a572d4e.jpg",
+    "sha256": "8a572d4e19c2351a9619556584911505d135c743fb35fffd18c702f8f1614236",
+    "bytes": 225809,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/PHOTO-2025-11-05-21-27-02_1.jpg",
+    "local": "/assets/projects/PHOTO-2025-11-05-21-27-02_1-54e77000.jpg",
+    "sha256": "54e770003b4d2ad82f0c313b3733f998e89e38bc996c2c8f78e64215e05372b1",
+    "bytes": 292841,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/PHOTO-2025-11-05-21-27-02_2.jpg",
+    "local": "/assets/projects/PHOTO-2025-11-05-21-27-02_2-7b550309.jpg",
+    "sha256": "7b550309bed7bda43ecf0f5b6ec6e8e513ae8935e311df451b8d59a5c24808af",
+    "bytes": 228637,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/PHOTO-2025-11-05-21-27-02_3.jpg",
+    "local": "/assets/projects/PHOTO-2025-11-05-21-27-02_3-dc27b8a8.jpg",
+    "sha256": "dc27b8a8a43a872abfe6c6327f19b083a66346fa5723d3d31e57dd55bb3da598",
+    "bytes": 282224,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/PHOTO-2025-11-05-21-27-02_4.jpg",
+    "local": "/assets/projects/PHOTO-2025-11-05-21-27-02_4-b99c3bd7.jpg",
+    "sha256": "b99c3bd754c6cc203251521e20722a0d96deb0eccf01b444ba0a34bc5ffa0841",
+    "bytes": 290121,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/WhatsApp Image 2026-04-24 at 12.38.52 (1).jpeg",
+    "local": "/assets/projects/WhatsApp-Image-2026-04-24-at-12.38.52--1--f0f8de32.jpeg",
+    "sha256": "f0f8de322dab293ba589d93859f4691f147d7007e91e0d4f76d5a35ab413f2a0",
+    "bytes": 463122,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/WhatsApp Image 2026-04-24 at 12.38.52 (2).jpeg",
+    "local": "/assets/projects/WhatsApp-Image-2026-04-24-at-12.38.52--2--2ff7dab1.jpeg",
+    "sha256": "2ff7dab1631e3787352e3538762b670c0e02055458c4b49a57b58e3a3dffe814",
+    "bytes": 544108,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/WhatsApp Image 2026-04-24 at 12.38.52.jpeg",
+    "local": "/assets/projects/WhatsApp-Image-2026-04-24-at-12.38.52-609d2df2.jpeg",
+    "sha256": "609d2df29b83dc88a35e24a0fb753b8d4068986b142bc910a2fdb29966adaffd",
+    "bytes": 358244,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria1.jpg",
+    "local": "/assets/projects/galeria1-3a6d7eef.jpg",
+    "sha256": "3a6d7eefa48d61a753d2e7f4de42850f17c1c558ef2212d0c37ce5867b7407fa",
+    "bytes": 505402,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria10.jpg",
+    "local": "/assets/projects/galeria10-4f2f0be5.jpg",
+    "sha256": "4f2f0be50cf3bf2d0faf12dd922a2b81c800a828068a9fbe02b26d02515c1e1d",
+    "bytes": 354830,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria10m.jpg",
+    "local": "/assets/projects/galeria10m-06d7a55c.jpg",
+    "sha256": "06d7a55c0023914fffe62f90169ff475d0cfc65b58dad2633f8f11b5c6f3a54a",
+    "bytes": 124002,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria11.jpg",
+    "local": "/assets/projects/galeria11-1b8c0b5c.jpg",
+    "sha256": "1b8c0b5cad757bfb5d6de955d7078003a4569ce77acaf508aa3ddd6c7c2c25cb",
+    "bytes": 333676,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria11m.jpg",
+    "local": "/assets/projects/galeria11m-d0248627.jpg",
+    "sha256": "d0248627394699d3386f140cf895ee04d05eedad931ffe2559d9fe4289403c0a",
+    "bytes": 135914,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria12.jpg",
+    "local": "/assets/projects/galeria12-0d28d14c.jpg",
+    "sha256": "0d28d14cd79c753122946c029c66d7d0285c116eec6603324c11a15b370a3c2f",
+    "bytes": 319847,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria12m.jpg",
+    "local": "/assets/projects/galeria12m-e7626f29.jpg",
+    "sha256": "e7626f29904a9290b90ea2beb54b6601c5992a77c6fa843d96add24937f5f560",
+    "bytes": 126919,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria13.jpg",
+    "local": "/assets/projects/galeria13-94892353.jpg",
+    "sha256": "948923537cd336fe6052cd771767570c4e886e67b5555ba2a16619b5c50d8dfb",
+    "bytes": 204401,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria13m.jpg",
+    "local": "/assets/projects/galeria13m-3033648a.jpg",
+    "sha256": "3033648a7da63ec1ded5a3bf7a8380df942a37b4fca954879310a442d96330db",
+    "bytes": 91667,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria14.jpg",
+    "local": "/assets/projects/galeria14-33cbcedd.jpg",
+    "sha256": "33cbcedd38f350e2d936eb824612bc3263fe85c484f895cef7b50bb682e4d2e9",
+    "bytes": 198246,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria14m.jpg",
+    "local": "/assets/projects/galeria14m-85430677.jpg",
+    "sha256": "85430677698fc6501adde0a6d0fab228d5cd58dbb486e3f2adb660fea7c3ff99",
+    "bytes": 87692,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria15.jpg",
+    "local": "/assets/projects/galeria15-1d4035a8.jpg",
+    "sha256": "1d4035a85a72b1ad8eeba8f9fc808587468f3ec1d18cdf861ead5cc76a362b32",
+    "bytes": 209072,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria15m.jpg",
+    "local": "/assets/projects/galeria15m-c4d54750.jpg",
+    "sha256": "c4d5475082a8106a93f4292e5afa7c98eec0d9836311e4c991692e65689d8bf1",
+    "bytes": 83338,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria16.jpg",
+    "local": "/assets/projects/galeria16-270e0923.jpg",
+    "sha256": "270e09231627915ab36e3123cfce2c8733d2ac9723d43db661693765a424616b",
+    "bytes": 181414,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria16m.jpg",
+    "local": "/assets/projects/galeria16m-a3a33364.jpg",
+    "sha256": "a3a33364dd17c14ff9994b18fc3b799beb4c6de4fe21bf344fa7ba895b8c196e",
+    "bytes": 70971,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria17.jpg",
+    "local": "/assets/projects/galeria17-917f0cb8.jpg",
+    "sha256": "917f0cb87cd29e80e24f21a114a5fde99c1650caaee6bc8e531049cc4f9f6d53",
+    "bytes": 217931,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria17m.jpg",
+    "local": "/assets/projects/galeria17m-40e1a965.jpg",
+    "sha256": "40e1a9652289593ed126cc519496e2c1e9aaa244f056b198dbbe0f3932114783",
+    "bytes": 84248,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria18.jpg",
+    "local": "/assets/projects/galeria18-2dd9e255.jpg",
+    "sha256": "2dd9e255eb33ce87beaf39fa911380a8f5510e4bb9d0ad86c7b21e552def2e46",
+    "bytes": 327090,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria18m.jpg",
+    "local": "/assets/projects/galeria18m-ec0a856e.jpg",
+    "sha256": "ec0a856ebeb0294d2d3b61687aba63c3eb8e41dab495b43f0a71c609fe32e233",
+    "bytes": 89121,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria19.jpg",
+    "local": "/assets/projects/galeria19-ea5d913f.jpg",
+    "sha256": "ea5d913f363d2ef442353f2171a964fe1b3bed1177ab74d4e669d756159a06da",
+    "bytes": 299096,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria19m.jpg",
+    "local": "/assets/projects/galeria19m-5f0dbe6e.jpg",
+    "sha256": "5f0dbe6e516890d81715912569de2566474b97cce41bea9833dae8776b9e6222",
+    "bytes": 79407,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria1m.jpg",
+    "local": "/assets/projects/galeria1m-324ecfd4.jpg",
+    "sha256": "324ecfd4919dff5277b26fef8b3e3b02b0a33674224a9d235f680cb79590b8c3",
+    "bytes": 148630,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria2.jpg",
+    "local": "/assets/projects/galeria2-6e170e06.jpg",
+    "sha256": "6e170e0654dcdd8df15996ff8bba90f11621a6a8efca3cb31d7f06b3fd2ec9ba",
+    "bytes": 188021,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria20.jpg",
+    "local": "/assets/projects/galeria20-58b05e84.jpg",
+    "sha256": "58b05e84f02b8452f165eaab38be011bfbd56acea3d59cd4aa4acefa1882aaa6",
+    "bytes": 236544,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria20m.jpg",
+    "local": "/assets/projects/galeria20m-b5681446.jpg",
+    "sha256": "b568144691cbb1c530d51c67fb2a144016c88eac16bd50f456bf336bd560d674",
+    "bytes": 77392,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria21.jpg",
+    "local": "/assets/projects/galeria21-d667d8e6.jpg",
+    "sha256": "d667d8e671b078d08c31250ec0eb606ccd56b271a23a4b467002860baa81e587",
+    "bytes": 423122,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria21m.jpg",
+    "local": "/assets/projects/galeria21m-5616e455.jpg",
+    "sha256": "5616e455eac9ade4d5891ce38e8c52255a36a9cc7af15a9ab391ee0660bfe88c",
+    "bytes": 79490,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria22.jpg",
+    "local": "/assets/projects/galeria22-285bacd0.jpg",
+    "sha256": "285bacd0c6677995018c961c9fca896964fbe2e9b581d17d2417a9bc83a97de8",
+    "bytes": 449408,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria22m.jpg",
+    "local": "/assets/projects/galeria22m-2418d16a.jpg",
+    "sha256": "2418d16a2f67251391163d3ae60280219c763f6f876efbb95145262b48e90c63",
+    "bytes": 78679,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria23.jpg",
+    "local": "/assets/projects/galeria23-cf4dc6cc.jpg",
+    "sha256": "cf4dc6ccdf7d9277881177c17276fc1d463f33486f8d25f9af28a6bbad5d6c3e",
+    "bytes": 236008,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria23m.jpg",
+    "local": "/assets/projects/galeria23m-cbb9d047.jpg",
+    "sha256": "cbb9d047574b3915d016787bff211ad458b761885869a14feca445a458efdb41",
+    "bytes": 68706,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria24.jpg",
+    "local": "/assets/projects/galeria24-57eeb31a.jpg",
+    "sha256": "57eeb31adab2c3be7457dd50051f7c8f6d17bef103e9dcb896d74deb4eacc0b2",
+    "bytes": 325508,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria24m.jpg",
+    "local": "/assets/projects/galeria24m-13f7e797.jpg",
+    "sha256": "13f7e7978a7c80426e53e5cd11dd241aff5bc9d101af9e1da5813294b7046d48",
+    "bytes": 70268,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria25.jpg",
+    "local": "/assets/projects/galeria25-f671abec.jpg",
+    "sha256": "f671abec5f75323994ce59af15ac540ba16c6c1e75b67b8762e9137010f9f5df",
+    "bytes": 399160,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria25m.jpg",
+    "local": "/assets/projects/galeria25m-4a70ae64.jpg",
+    "sha256": "4a70ae64624af39bac273932186ddfecf7e0ba8acce6f31ba37c2074c2769133",
+    "bytes": 66445,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria26.jpg",
+    "local": "/assets/projects/galeria26-ba4bf45c.jpg",
+    "sha256": "ba4bf45ce057fa91f9f777e368013b8d12973b1461d9a840f959bafcda8bb04c",
+    "bytes": 777323,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria26m.jpg",
+    "local": "/assets/projects/galeria26m-75d1c175.jpg",
+    "sha256": "75d1c175adf1438586a7674b455e89c98501684c71eaa1c7cd2242f35679b554",
+    "bytes": 106777,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria27.jpg",
+    "local": "/assets/projects/galeria27-d80e1572.jpg",
+    "sha256": "d80e15729e181800528ab2d7772f0b9863f96369402f71537a308505f6af3383",
+    "bytes": 405890,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria27m.jpg",
+    "local": "/assets/projects/galeria27m-d5153543.jpg",
+    "sha256": "d5153543fee19f5a104948d8c08c79741c2437813a6fb1fa40846a4fc3ea3d80",
+    "bytes": 63710,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria28.jpg",
+    "local": "/assets/projects/galeria28-298da7e7.jpg",
+    "sha256": "298da7e7a0fa23746718e6083af7bdbb253e8228406faf92204ee59772a369da",
+    "bytes": 735840,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria28m.jpg",
+    "local": "/assets/projects/galeria28m-c83d1621.jpg",
+    "sha256": "c83d1621cab7b955d68d5caa780733a781d563bfb191fa4345c25f38c023d518",
+    "bytes": 103470,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria29.jpg",
+    "local": "/assets/projects/galeria29-89d23fcb.jpg",
+    "sha256": "89d23fcbf17563bd82483a544ff72126e52e8f6dea1cc2debae53a1976bb767e",
+    "bytes": 639780,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria29m.jpg",
+    "local": "/assets/projects/galeria29m-6b44c5c2.jpg",
+    "sha256": "6b44c5c20a590de96b911f48b560e7d50e584ea6fee970efa4c52854acb9d25d",
+    "bytes": 85158,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria2m.jpg",
+    "local": "/assets/projects/galeria2m-66f04faa.jpg",
+    "sha256": "66f04faa4a5c33a8bb2804624ca208cdc2dc4eee3944300f4ff32d7d3144047a",
+    "bytes": 58683,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria3.jpg",
+    "local": "/assets/projects/galeria3-516ebb9f.jpg",
+    "sha256": "516ebb9f629fe207c5c757be5751704d57e0b00615f755e718e47c789ad52d1b",
+    "bytes": 287761,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria30.jpg",
+    "local": "/assets/projects/galeria30-4a3c68e5.jpg",
+    "sha256": "4a3c68e5a461e3df8ffb98c2e8384180dc502979c136f8bb0972111954db8862",
+    "bytes": 444521,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria30m.jpg",
+    "local": "/assets/projects/galeria30m-8455c95d.jpg",
+    "sha256": "8455c95d01e8ea1a975b530cb42a4b0f56b899adcb745b11f295496af7c9ae34",
+    "bytes": 76002,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria31.jpg",
+    "local": "/assets/projects/galeria31-4822732e.jpg",
+    "sha256": "4822732e38f41b5c55bc5e12f959f1ddefd442165d09693efc77192f8d83ffc4",
+    "bytes": 602630,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria31m.jpg",
+    "local": "/assets/projects/galeria31m-35631875.jpg",
+    "sha256": "356318757f5139b8c184d568315fe83da774cdf4003a25379420058159c67f75",
+    "bytes": 85031,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria32.jpg",
+    "local": "/assets/projects/galeria32-56a0fd93.jpg",
+    "sha256": "56a0fd93fa31f1f3a16a940f23680103a3e6eac13baabd59bc231ca56bb7dfd4",
+    "bytes": 478504,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria32m.jpg",
+    "local": "/assets/projects/galeria32m-155f1be6.jpg",
+    "sha256": "155f1be66b488184d3aedfbcbcfcf91eed1ef2b0b7d3dcea68b82a1337e61658",
+    "bytes": 69253,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria33.jpg",
+    "local": "/assets/projects/galeria33-6b10894a.jpg",
+    "sha256": "6b10894a2f3fd08920ec57b6df8b044597ba1e3428c1846768e0311f142d2fe0",
+    "bytes": 531324,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria33m.jpg",
+    "local": "/assets/projects/galeria33m-4a22826e.jpg",
+    "sha256": "4a22826e70f777dc48a9da657dcc918c8bc3e9dbddc6ccd4f8c1ab096b9b258a",
+    "bytes": 79849,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria3m.jpg",
+    "local": "/assets/projects/galeria3m-88e8e3e7.jpg",
+    "sha256": "88e8e3e7e5b33b93220978ae9f2b9331ec66ae423a7b4a97fc9a68ce8d7e0508",
+    "bytes": 139506,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria4.jpg",
+    "local": "/assets/projects/galeria4-1d51c1d7.jpg",
+    "sha256": "1d51c1d795fcfcbc4716f3cf43bd00784fe866e79fdb404c8ba8565d2d7385a2",
+    "bytes": 234860,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria4m.jpg",
+    "local": "/assets/projects/galeria4m-0fa22d73.jpg",
+    "sha256": "0fa22d73fdfec69b0bab595ba76b31850cabad4c214d1bf9a7b9ef3551a76931",
+    "bytes": 135459,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria5.jpg",
+    "local": "/assets/projects/galeria5-bf8f14fd.jpg",
+    "sha256": "bf8f14fd702b9d464bfc27af9b76888aeceabbae03285f12b5f1de65601982e4",
+    "bytes": 144711,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria5m.jpg",
+    "local": "/assets/projects/galeria5m-1157eb6d.jpg",
+    "sha256": "1157eb6d74b92b65741bbf740840d4555e87ee689efb935f5b05849697edda5f",
+    "bytes": 95463,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria6.jpg",
+    "local": "/assets/projects/galeria6-8b127f93.jpg",
+    "sha256": "8b127f93b9ae8668586240390d02974337f20ebdcd78ae503cef7e88bdc91cec",
+    "bytes": 195301,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria6m.jpg",
+    "local": "/assets/projects/galeria6m-e4af5835.jpg",
+    "sha256": "e4af58357b5a7c1f88f40c7c25aaa31307f51fd4bd14ae500fbd5ae6ec261c92",
+    "bytes": 106329,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria7.jpg",
+    "local": "/assets/projects/galeria7-0495ba49.jpg",
+    "sha256": "0495ba4938cbeda3cfccbe8533206dad15ca4d68d29796799514d2d45f276c11",
+    "bytes": 187105,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria7m.jpg",
+    "local": "/assets/projects/galeria7m-3c6d838f.jpg",
+    "sha256": "3c6d838f1ef37589ffe73df7330a99157317dd9bd3b4c0db3c8ffde6339a6794",
+    "bytes": 121809,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria8.jpg",
+    "local": "/assets/projects/galeria8-8f4ba998.jpg",
+    "sha256": "8f4ba998ddb822c50554cce84d513287e132c02265d63cc29993d348fa44ec65",
+    "bytes": 172836,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria8m.jpg",
+    "local": "/assets/projects/galeria8m-eeb78a5b.jpg",
+    "sha256": "eeb78a5b0dc772a02a3f02d806fd3320e3aa7026aacaa25284402bb6ed67f2cf",
+    "bytes": 114187,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria9.jpg",
+    "local": "/assets/projects/galeria9-697e97db.jpg",
+    "sha256": "697e97db96446ddeafed39bacd80cf1bf0baff63e3307cff265f14214fc42fff",
+    "bytes": 387581,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/galeria/galeria9m.jpg",
+    "local": "/assets/projects/galeria9m-0554e61c.jpg",
+    "sha256": "0554e61c63049aa1202f3db16857427210147b74549b813ba86171276e1c3103",
+    "bytes": 144801,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/realizacje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/glowna.jpg",
+    "local": "/assets/slider/glowna-f5fc711e.jpg",
+    "sha256": "f5fc711ef1cb911d13a738de6692e058aaaff4dfd1385ffcad748557b371e9b1",
+    "bytes": 149611,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/glowna1.jpg",
+    "local": "/assets/slider/glowna1-fcfbe41d.jpg",
+    "sha256": "fcfbe41d7c7abcd97c6bbeb08f218679a2a27bc143afd83b49fb3de4abb534e7",
+    "bytes": 137383,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/glowna2.jpg",
+    "local": "/assets/slider/glowna2-359f2559.jpg",
+    "sha256": "359f25591f83499e0290ad3f74fa135270ef2ed2866e4349e4ff339d96ed36a4",
+    "bytes": 178036,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/glowna3.jpg",
+    "local": "/assets/slider/glowna3-4daef09f.jpg",
+    "sha256": "4daef09f8626e93733d986e40f573f24186076630e60d849f6cb1054ffb4f9db",
+    "bytes": 167693,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/glowna4.jpg",
+    "local": "/assets/slider/glowna4-e01ae7c2.jpg",
+    "sha256": "e01ae7c2928cdf1c5f21db85221e294226ceed09520379d631f7763416f465e3",
+    "bytes": 142915,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/glowna5.jpg",
+    "local": "/assets/slider/glowna5-88b70f66.jpg",
+    "sha256": "88b70f66adff49a75127ff2dcd3f9ad02e007168ee7ea53e1307e7a597c18258",
+    "bytes": 206972,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/hands.svg",
+    "local": "/assets/icons/hands-b363e0df.svg",
+    "sha256": "b363e0dfdd145cabe74ccce375c1c6e9e9a665252fa457cfbecf5e52fc335b62",
+    "bytes": 1350,
+    "mime": "image/svg+xml",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/drzwi-pcv-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-pcv-kutno.html",
+      "https://tomdarokna.pl/drzwi-pcv-lodz.html",
+      "https://tomdarokna.pl/drzwi-pcv-lowicz.html",
+      "https://tomdarokna.pl/drzwi-pcv-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-pcv-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/o-nas.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/katalogaluplast.jpg",
+    "local": "/assets/photos/katalogaluplast-6eec71dc.jpg",
+    "sha256": "6eec71dc57cbdd5b784730abf5afa32e697a7b66e3f7931da930568e7d88ff69",
+    "bytes": 59568,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/okna-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/okna-aluminiowe-skierniewice.html",
+      "https://tomdarokna.pl/okna-drewniane-kutno.html",
+      "https://tomdarokna.pl/okna-energooszczedne-lodz.html",
+      "https://tomdarokna.pl/okna-kutno.html",
+      "https://tomdarokna.pl/okna-lowicz.html",
+      "https://tomdarokna.pl/okna-na-wymiar-lodz.html",
+      "https://tomdarokna.pl/okna-na-zamowienie-lodz.html",
+      "https://tomdarokna.pl/okna-pcv-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/okna-pcv-lodz.html",
+      "https://tomdarokna.pl/okna-pcv-lowicz.html",
+      "https://tomdarokna.pl/okna-pcv-skierniewice.html",
+      "https://tomdarokna.pl/okna-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/okna-skierniewice.html",
+      "https://tomdarokna.pl/okna.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/katalogokienabm.jpg",
+    "local": "/assets/catalog-covers/katalogokienabm-d5ece2a4.jpg",
+    "sha256": "d5ece2a4e9c0a92b2ddf61d60542e2d27f58a81c391b4eadae78d8dd91e1564a",
+    "bytes": 70371,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/okna-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/okna-aluminiowe-skierniewice.html",
+      "https://tomdarokna.pl/okna-drewniane-kutno.html",
+      "https://tomdarokna.pl/okna-energooszczedne-lodz.html",
+      "https://tomdarokna.pl/okna-kutno.html",
+      "https://tomdarokna.pl/okna-lowicz.html",
+      "https://tomdarokna.pl/okna-na-wymiar-lodz.html",
+      "https://tomdarokna.pl/okna-na-zamowienie-lodz.html",
+      "https://tomdarokna.pl/okna-pcv-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/okna-pcv-lodz.html",
+      "https://tomdarokna.pl/okna-pcv-lowicz.html",
+      "https://tomdarokna.pl/okna-pcv-skierniewice.html",
+      "https://tomdarokna.pl/okna-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/okna-skierniewice.html",
+      "https://tomdarokna.pl/okna.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/katalogokienforest.jpg",
+    "local": "/assets/catalog-covers/katalogokienforest-61c42aa2.jpg",
+    "sha256": "61c42aa293cb9193ba4794a00545398f8c40c252127c965a63beb264820cd49e",
+    "bytes": 75519,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/okna-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/okna-aluminiowe-skierniewice.html",
+      "https://tomdarokna.pl/okna-drewniane-kutno.html",
+      "https://tomdarokna.pl/okna-energooszczedne-lodz.html",
+      "https://tomdarokna.pl/okna-kutno.html",
+      "https://tomdarokna.pl/okna-lowicz.html",
+      "https://tomdarokna.pl/okna-na-wymiar-lodz.html",
+      "https://tomdarokna.pl/okna-na-zamowienie-lodz.html",
+      "https://tomdarokna.pl/okna-pcv-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/okna-pcv-lodz.html",
+      "https://tomdarokna.pl/okna-pcv-lowicz.html",
+      "https://tomdarokna.pl/okna-pcv-skierniewice.html",
+      "https://tomdarokna.pl/okna-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/okna-skierniewice.html",
+      "https://tomdarokna.pl/okna.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/katalogveka.jpg",
+    "local": "/assets/photos/katalogveka-838c2c98.jpg",
+    "sha256": "838c2c980ce52aa69336d8559425ffff9e1a2b0bae9ea698fff4b1f2cdfda2ab",
+    "bytes": 66261,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/okna-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/okna-aluminiowe-skierniewice.html",
+      "https://tomdarokna.pl/okna-drewniane-kutno.html",
+      "https://tomdarokna.pl/okna-energooszczedne-lodz.html",
+      "https://tomdarokna.pl/okna-kutno.html",
+      "https://tomdarokna.pl/okna-lowicz.html",
+      "https://tomdarokna.pl/okna-na-wymiar-lodz.html",
+      "https://tomdarokna.pl/okna-na-zamowienie-lodz.html",
+      "https://tomdarokna.pl/okna-pcv-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/okna-pcv-lodz.html",
+      "https://tomdarokna.pl/okna-pcv-lowicz.html",
+      "https://tomdarokna.pl/okna-pcv-skierniewice.html",
+      "https://tomdarokna.pl/okna-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/okna-skierniewice.html",
+      "https://tomdarokna.pl/okna.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/logo.png",
+    "local": "/assets/brand/logo-d4bad833.png",
+    "sha256": "d4bad833732066742c12c3efb67df5eee96f49390a2d5ca42c844bb9dcd2bc97",
+    "bytes": 100968,
+    "mime": "image/png",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/bramy-garazowe-kutno.html",
+      "https://tomdarokna.pl/bramy-garazowe-lodz.html",
+      "https://tomdarokna.pl/bramy-garazowe-lowicz.html",
+      "https://tomdarokna.pl/bramy-garazowe-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/bramy-garazowe-skierniewice.html",
+      "https://tomdarokna.pl/bramy-garazowe.html",
+      "https://tomdarokna.pl/bramy-segmentowe-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/bramy-segmentowe-kutno.html",
+      "https://tomdarokna.pl/bramy-segmentowe-lodz.html",
+      "https://tomdarokna.pl/bramy-segmentowe-lowicz.html",
+      "https://tomdarokna.pl/bramy-segmentowe-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/bramy-segmentowe-skierniewice.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/drzwi-pcv-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-pcv-kutno.html",
+      "https://tomdarokna.pl/drzwi-pcv-lodz.html",
+      "https://tomdarokna.pl/drzwi-pcv-lowicz.html",
+      "https://tomdarokna.pl/drzwi-pcv-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-pcv-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-drewniane.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-drewniane.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-stalowe.html",
+      "https://tomdarokna.pl/drzwi.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/kontakt.html",
+      "https://tomdarokna.pl/markizy-moskitiery.html",
+      "https://tomdarokna.pl/o-nas.html",
+      "https://tomdarokna.pl/okna-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/okna-aluminiowe-skierniewice.html",
+      "https://tomdarokna.pl/okna-drewniane-kutno.html",
+      "https://tomdarokna.pl/okna-energooszczedne-lodz.html",
+      "https://tomdarokna.pl/okna-kutno.html",
+      "https://tomdarokna.pl/okna-lowicz.html",
+      "https://tomdarokna.pl/okna-na-wymiar-lodz.html",
+      "https://tomdarokna.pl/okna-na-zamowienie-lodz.html",
+      "https://tomdarokna.pl/okna-pcv-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/okna-pcv-lodz.html",
+      "https://tomdarokna.pl/okna-pcv-lowicz.html",
+      "https://tomdarokna.pl/okna-pcv-skierniewice.html",
+      "https://tomdarokna.pl/okna-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/okna-skierniewice.html",
+      "https://tomdarokna.pl/okna.html",
+      "https://tomdarokna.pl/parapety.html",
+      "https://tomdarokna.pl/realizacje.html",
+      "https://tomdarokna.pl/rolety.html",
+      "https://tomdarokna.pl/schody-strychowe.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html",
+      "https://tomdarokna.pl/zaluzje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/markizafakro.jpg",
+    "local": "/assets/photos/markizafakro-6f704914.jpg",
+    "sha256": "6f704914f09cb0a015e61725189df42f1e55cb4041317fc36e7e3b3f11692dfc",
+    "bytes": 65855,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/markizy-moskitiery.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/markizy.jpg",
+    "local": "/assets/photos/markizy-f41d9a03.jpg",
+    "sha256": "f41d9a03f41c88776fb4fd0f2c77dfa4dabcede999c5ba20eb2f1360e3f36b41",
+    "bytes": 61143,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/markizy-moskitiery.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/markizyselt.jpg",
+    "local": "/assets/photos/markizyselt-eed66d9d.jpg",
+    "sha256": "eed66d9d3ab2175564c66bfcc6f25023301ca3e7897f0533af70c50ae261e5dc",
+    "bytes": 93006,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/markizy-moskitiery.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/medal.svg",
+    "local": "/assets/icons/medal-70a6b157.svg",
+    "sha256": "70a6b157988cd7adc70371143946c696effc8a278e09e6c5aab14bf166824550",
+    "bytes": 1627,
+    "mime": "image/svg+xml",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/drzwi-pcv-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-pcv-kutno.html",
+      "https://tomdarokna.pl/drzwi-pcv-lodz.html",
+      "https://tomdarokna.pl/drzwi-pcv-lowicz.html",
+      "https://tomdarokna.pl/drzwi-pcv-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-pcv-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/o-nas.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/metalbud.jpg",
+    "local": "/assets/photos/metalbud-dd0dd54f.jpg",
+    "sha256": "dd0dd54fd0406404c7f2aa9448a007b534120675382cf18468d3524b887407cd",
+    "bytes": 89480,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-zewnetrzne-drewniane.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/metro-mail.svg",
+    "local": "/assets/icons/metro-mail-3cb9f15c.svg",
+    "sha256": "3cb9f15cec94e962da3421d512d51139534cb1d2d7a82778f4d1edc3b7dbce42",
+    "bytes": 400,
+    "mime": "image/svg+xml",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/bramy-garazowe-kutno.html",
+      "https://tomdarokna.pl/bramy-garazowe-lodz.html",
+      "https://tomdarokna.pl/bramy-garazowe-lowicz.html",
+      "https://tomdarokna.pl/bramy-garazowe-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/bramy-garazowe-skierniewice.html",
+      "https://tomdarokna.pl/bramy-garazowe.html",
+      "https://tomdarokna.pl/bramy-segmentowe-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/bramy-segmentowe-kutno.html",
+      "https://tomdarokna.pl/bramy-segmentowe-lodz.html",
+      "https://tomdarokna.pl/bramy-segmentowe-lowicz.html",
+      "https://tomdarokna.pl/bramy-segmentowe-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/bramy-segmentowe-skierniewice.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/drzwi-pcv-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-pcv-kutno.html",
+      "https://tomdarokna.pl/drzwi-pcv-lodz.html",
+      "https://tomdarokna.pl/drzwi-pcv-lowicz.html",
+      "https://tomdarokna.pl/drzwi-pcv-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-pcv-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-drewniane.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-wewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-drewniane.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-kutno.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lodz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-lowicz.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-skierniewice.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-stalowe.html",
+      "https://tomdarokna.pl/drzwi.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/kontakt.html",
+      "https://tomdarokna.pl/markizy-moskitiery.html",
+      "https://tomdarokna.pl/o-nas.html",
+      "https://tomdarokna.pl/okna-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/okna-aluminiowe-skierniewice.html",
+      "https://tomdarokna.pl/okna-drewniane-kutno.html",
+      "https://tomdarokna.pl/okna-energooszczedne-lodz.html",
+      "https://tomdarokna.pl/okna-kutno.html",
+      "https://tomdarokna.pl/okna-lowicz.html",
+      "https://tomdarokna.pl/okna-na-wymiar-lodz.html",
+      "https://tomdarokna.pl/okna-na-zamowienie-lodz.html",
+      "https://tomdarokna.pl/okna-pcv-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/okna-pcv-lodz.html",
+      "https://tomdarokna.pl/okna-pcv-lowicz.html",
+      "https://tomdarokna.pl/okna-pcv-skierniewice.html",
+      "https://tomdarokna.pl/okna-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/okna-skierniewice.html",
+      "https://tomdarokna.pl/okna.html",
+      "https://tomdarokna.pl/parapety.html",
+      "https://tomdarokna.pl/realizacje.html",
+      "https://tomdarokna.pl/rolety.html",
+      "https://tomdarokna.pl/schody-strychowe.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html",
+      "https://tomdarokna.pl/zaluzje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/moskitiery.jpg",
+    "local": "/assets/photos/moskitiery-4d8d0d60.jpg",
+    "sha256": "4d8d0d609bbb0328e6ab194dd2dc4cc2fe1623394c0c5d0ba4102cf7c1ffd2fd",
+    "bytes": 81738,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/markizy-moskitiery.html",
+      "https://tomdarokna.pl/schody-strychowe.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/parapetkonglomerat.jpg",
+    "local": "/assets/photos/parapetkonglomerat-0c9f4d26.jpg",
+    "sha256": "0c9f4d26d9f0a459ec978f61f00a9b4b857b17c61ae9230c3e4ecd1c7e382350",
+    "bytes": 19192,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/parapety.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/parapetystalbor.jpg",
+    "local": "/assets/photos/parapetystalbor-b19e8587.jpg",
+    "sha256": "b19e85874d39346bec50323e7f7cfa930e70cd6c03c7c446ab0b215574a4a0b2",
+    "bytes": 72931,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/parapety.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/parapetywewnetrzne.jpg",
+    "local": "/assets/photos/parapetywewnetrzne-54fd8685.jpg",
+    "sha256": "54fd8685f0e9c29a232beb61bc2166ce268da4ae13c4027bc7f9823bf33d0b2f",
+    "bytes": 18089,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/parapety.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/parapetyzewnetrzne.jpg",
+    "local": "/assets/photos/parapetyzewnetrzne-c964baa0.jpg",
+    "sha256": "c964baa0bb879208e843f7c7a91322540d2d54d821969c7c5de03b9add7634bc",
+    "bytes": 20099,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/parapety.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/parapetyzewnetrznestalbor.jpg",
+    "local": "/assets/photos/parapetyzewnetrznestalbor-b8cbda9c.jpg",
+    "sha256": "b8cbda9c55f178b18aed0067909fc1d94719149d6dc8a78f531540f045dab9ca",
+    "bytes": 52149,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/parapety.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/partner1.png",
+    "local": "/assets/brand/partner1-3630eccb.png",
+    "sha256": "3630eccb525adfbd24bf0b7d8bace119a9616d070dc5518f211e26fa1af7bb8a",
+    "bytes": 28112,
+    "mime": "image/png",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/partner2.png",
+    "local": "/assets/brand/partner2-858af1af.png",
+    "sha256": "858af1afa59e98547f3929df852496e080a5028a27158a509ee42a2a15441bad",
+    "bytes": 22629,
+    "mime": "image/png",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/partner3.png",
+    "local": "/assets/brand/partner3-073902fb.png",
+    "sha256": "073902fb85f4d273c096c737cc717a517b3608f0207194e6857f9dd40e4e48c5",
+    "bytes": 13223,
+    "mime": "image/png",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/partner4.png",
+    "local": "/assets/brand/partner4-8b659ce1.png",
+    "sha256": "8b659ce16fe01711335147a4679d545957f11118d832569aef8331d3b43b7949",
+    "bytes": 9854,
+    "mime": "image/png",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/partner5.png",
+    "local": "/assets/brand/partner5-bc1e6ec9.png",
+    "sha256": "bc1e6ec9027e0fae4c116e3aa8e9cb0c8fa89dd75e84099869bb1b392d1c4e64",
+    "bytes": 14859,
+    "mime": "image/png",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/partner6.png",
+    "local": "/assets/brand/partner6-cb08519e.png",
+    "sha256": "cb08519ea5a0bc284c28db0a0583fd8d7c23964e9f1a602605913a4b57d52439",
+    "bytes": 10172,
+    "mime": "image/png",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/profileokienne.jpg",
+    "local": "/assets/photos/profileokienne-72773763.jpg",
+    "sha256": "727737630f34b70c8b6be04d628ac220d32f6c153b5b02e9c9d70b997c62eef4",
+    "bytes": 64920,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/roletadachowa.jpg",
+    "local": "/assets/photos/roletadachowa-d71be191.jpg",
+    "sha256": "d71be191dd992b717ae890db37a1c3fa82754c9a824cad62413b9b9fd331f8cb",
+    "bytes": 59747,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/rolety.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/roletywew.jpg",
+    "local": "/assets/photos/roletywew-33eb2dba.jpg",
+    "sha256": "33eb2dbacc6d507409e1af92e03e275b81f25984d911a6e6160cbc341d142946",
+    "bytes": 74248,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/rolety.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/roletyzewn.jpg",
+    "local": "/assets/photos/roletyzewn-88e973d0.jpg",
+    "sha256": "88e973d0a142a1c09af34f3c8ae35c8915923115e0729c622e6ef589ffb0ba30",
+    "bytes": 64069,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/rolety.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/salamander.jpg",
+    "local": "/assets/photos/salamander-911bd086.jpg",
+    "sha256": "911bd0860dbb75b63952d9d9f1b82d8b1fae6d2b073f6ee3cb87d3597d23be9c",
+    "bytes": 38239,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/okna-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/okna-aluminiowe-skierniewice.html",
+      "https://tomdarokna.pl/okna-drewniane-kutno.html",
+      "https://tomdarokna.pl/okna-energooszczedne-lodz.html",
+      "https://tomdarokna.pl/okna-kutno.html",
+      "https://tomdarokna.pl/okna-lowicz.html",
+      "https://tomdarokna.pl/okna-na-wymiar-lodz.html",
+      "https://tomdarokna.pl/okna-na-zamowienie-lodz.html",
+      "https://tomdarokna.pl/okna-pcv-aleksandrow-lodzki.html",
+      "https://tomdarokna.pl/okna-pcv-lodz.html",
+      "https://tomdarokna.pl/okna-pcv-lowicz.html",
+      "https://tomdarokna.pl/okna-pcv-skierniewice.html",
+      "https://tomdarokna.pl/okna-rawa-mazowiecka.html",
+      "https://tomdarokna.pl/okna-skierniewice.html",
+      "https://tomdarokna.pl/okna.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/schodystrychowe.jpg",
+    "local": "/assets/photos/schodystrychowe-d65d0923.jpg",
+    "sha256": "d65d0923f5233f493519bd417e53452f42319d9ff16e1164b834e6e1a5e14463",
+    "bytes": 35619,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/schody-strychowe.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/select-drop-dark.png",
+    "local": "/assets/photos/select-drop-dark-d7f4e594.png",
+    "sha256": "d7f4e5942bc35e06a3805f57084e4afabf7b8ffe921bd2d2bf2ee502b8091aeb",
+    "bytes": 14580,
+    "mime": "image/png",
+    "referencedBy": [
+      "https://tomdarokna.pl/assets/css/style.min.css"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/serive-icon-bg.png",
+    "local": "/assets/photos/serive-icon-bg-64de2b5f.png",
+    "sha256": "64de2b5feabe771ceb4bac88cd17bad6449566364fa6fa8b36fb2ebd4e67fe89",
+    "bytes": 15230,
+    "mime": "image/png",
+    "referencedBy": [
+      "https://tomdarokna.pl/assets/css/style.min.css"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/service-ico-1.png",
+    "local": "/assets/icons/service-ico-1-dadb798c.png",
+    "sha256": "dadb798cbc6e3b73852fa8ce471be141a05135ea9eed26c035354039c9f18bff",
+    "bytes": 9688,
+    "mime": "image/png",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/service-ico-2.png",
+    "local": "/assets/icons/service-ico-2-0ea6011a.png",
+    "sha256": "0ea6011a9bba76e59f5b64104613a38d574c41b440effb2c0a100654c49f0e1a",
+    "bytes": 13002,
+    "mime": "image/png",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/service-ico-3.png",
+    "local": "/assets/icons/service-ico-3-962c63c9.png",
+    "sha256": "962c63c901d91eac3987ec2812eb0709b5959a24d282486dfbb99846810723fc",
+    "bytes": 11228,
+    "mime": "image/png",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/wiked.jpg",
+    "local": "/assets/photos/wiked-36aedaf5.jpg",
+    "sha256": "36aedaf57e50dbe3cc5dd3b5883d931d1d1f007053617d92f32860c425daea33",
+    "bytes": 49883,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-zewnetrzne-stalowe.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/works/1-thump.jpg",
+    "local": "/assets/products/1-thump-2c5b5116.jpg",
+    "sha256": "2c5b511658c81c542cc72ab9bfc4f2298d7c58db926c72067e3677fba318190a",
+    "bytes": 101446,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/works/1.jpg",
+    "local": "/assets/products/1-6ae5d954.jpg",
+    "sha256": "6ae5d954c3cb4ff0827dd70902cc6cbc157b437695921971ec1eda5bc9baee86",
+    "bytes": 364935,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/works/2-thump.jpg",
+    "local": "/assets/products/2-thump-9781947f.jpg",
+    "sha256": "9781947f5c882fd5f36662efd3422ef549cbcde38664b1804db3c649ea718f3b",
+    "bytes": 78090,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/works/2.jpg",
+    "local": "/assets/products/2-46eafc44.jpg",
+    "sha256": "46eafc449e7f1eaa7e20c18ac837436670233d344ee0518d0d2f4303ce356ff8",
+    "bytes": 261883,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/works/3-thump.jpg",
+    "local": "/assets/products/3-thump-37b80eab.jpg",
+    "sha256": "37b80eab744817c831f2653b1b7136f7477236d2294d6553bd3f2fc9fce580bb",
+    "bytes": 105848,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/works/3.jpg",
+    "local": "/assets/products/3-dd530bc5.jpg",
+    "sha256": "dd530bc5106b9ad08ff2b2c03e5452f5550eae6a048de190cb81c947f7d7ecbc",
+    "bytes": 345090,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/works/4-thump.jpg",
+    "local": "/assets/products/4-thump-cec99fe0.jpg",
+    "sha256": "cec99fe0fbe850c7eabe52024f2cb3501ef0e440a4816612026cca7b7576f001",
+    "bytes": 116864,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/works/4.jpg",
+    "local": "/assets/products/4-1a2fbc45.jpg",
+    "sha256": "1a2fbc454579ffe2e2f612b74ce54d5f9923434df325df6ee05812dab1aa202d",
+    "bytes": 280976,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/works/5-thump.jpg",
+    "local": "/assets/products/5-thump-f3bf4a7f.jpg",
+    "sha256": "f3bf4a7f65c9541e632502363e4f426690b739426441232c6862e5b1e271c81e",
+    "bytes": 105441,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/works/5.jpg",
+    "local": "/assets/products/5-02d93fc6.jpg",
+    "sha256": "02d93fc69e0112b74ebd6908d69212e89631e4b919cd3d515583a4ab194a6121",
+    "bytes": 200142,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/works/6-thump.jpg",
+    "local": "/assets/products/6-thump-86782510.jpg",
+    "sha256": "86782510837f8a557f38406546f05e614f8793e08a3005e7b4c5339f96e98389",
+    "bytes": 113577,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/works/6.jpg",
+    "local": "/assets/products/6-7932bec5.jpg",
+    "sha256": "7932bec5a35de6a1665d1c54bf7d4134c9f9a822561ca7bfebcc5df5c77f1ab2",
+    "bytes": 512472,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/works/7-thump.jpg",
+    "local": "/assets/products/7-thump-7d5b7c0f.jpg",
+    "sha256": "7d5b7c0f34795d27c707569a69eca73fe4759a6fa55ff8e9020b2903a7ff2838",
+    "bytes": 141394,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/works/7.jpg",
+    "local": "/assets/products/7-e773c8ed.jpg",
+    "sha256": "e773c8ed0e527f4326ee83083cec967dd0adb0b11bcefb407fd500c390ed5e6c",
+    "bytes": 287250,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/works/8-thump.jpg",
+    "local": "/assets/products/8-thump-36e401c2.jpg",
+    "sha256": "36e401c20348ae2ca1d166c4ae9b6ef2f7af6c51c524084d6f45075be00870ec",
+    "bytes": 91652,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/works/8.jpg",
+    "local": "/assets/products/8-587becef.jpg",
+    "sha256": "587becef337e1fc2297edce2cc32321e8bad62a3069e0ff1a3fa0fd7ab7934ae",
+    "bytes": 211692,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/",
+      "https://tomdarokna.pl/accordions-tabs.html",
+      "https://tomdarokna.pl/buttons.html",
+      "https://tomdarokna.pl/contactus.html",
+      "https://tomdarokna.pl/forms.html",
+      "https://tomdarokna.pl/index.html",
+      "https://tomdarokna.pl/services.html",
+      "https://tomdarokna.pl/tables.html",
+      "https://tomdarokna.pl/typography.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/zaluzje.jpg",
+    "local": "/assets/photos/zaluzje-16521a07.jpg",
+    "sha256": "16521a07c478113c07e1a8aea42d840c50ac9ac8ce8db08c111abfb2738a6517",
+    "bytes": 67720,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/zaluzje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/zaluzjefasadoweselt.jpg",
+    "local": "/assets/photos/zaluzjefasadoweselt-a5bf34e4.jpg",
+    "sha256": "a5bf34e4993b4152239e11b5ca68a08c004ac5d0f0630b6586e8cab7d9e3c786",
+    "bytes": 97629,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/zaluzje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/assets/img/zaslony.jpg",
+    "local": "/assets/photos/zaslony-0260de3f.jpg",
+    "sha256": "0260de3fd72d5e0defe4f8b6d17845f6b19568d4c2e6e413c100e8ff1b57eebd",
+    "bytes": 65268,
+    "mime": "image/jpeg",
+    "referencedBy": [
+      "https://tomdarokna.pl/markizy-moskitiery.html",
+      "https://tomdarokna.pl/schody-strychowe.html",
+      "https://tomdarokna.pl/zaluzje.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/pdf/erkado2023.pdf",
+    "local": "/assets/documents/erkado2023-5a81ebea.pdf",
+    "sha256": "5a81ebea42f3a76fe33d944b190877942c8f9060160284b816bd20f2458129a1",
+    "bytes": 18012024,
+    "mime": "application/pdf",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/pdf/katalogkmt.pdf",
+    "local": "/assets/documents/katalogkmt-9b9c1a21.pdf",
+    "sha256": "9b9c1a218b8abefabc9211c8f02dde4dbb7f8a6df216684fb5b3f08311f1a926",
+    "bytes": 25383997,
+    "mime": "application/pdf",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-zewnetrzne-stalowe.html"
+    ]
+  },
+  {
+    "source": "https://tomdarokna.pl/pdf/voster2023.pdf",
+    "local": "/assets/documents/voster2023-69e3bd61.pdf",
+    "sha256": "69e3bd618a1117293517bd77c30f8920a9a366235fd4d37f23261eb71fe281d2",
+    "bytes": 45138799,
+    "mime": "application/pdf",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ]
+  },
+  {
+    "source": "http://www.budrex.pl/katalog.pdf",
+    "local": "/assets/documents/katalog-b3ea884b.pdf",
+    "sha256": "b3ea884b3e270d69cf4f4d6bc40860b594c0f271435e25dbb0f6739897e40a52",
+    "bytes": 87624470,
+    "mime": "application/pdf",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-drewniane.html"
+    ]
+  },
+  {
+    "source": "http://www.dotiie.pl/files/documents/katalog-drzwi-DOTIIE-2020.pdf",
+    "local": "/assets/documents/katalog-drzwi-DOTIIE-2020-b6bf274e.pdf",
+    "sha256": "b6bf274eed5e8aaf4d7e76645375fbd3f8a83426aec6b914fb3b533bf026629c",
+    "bytes": 14783146,
+    "mime": "application/pdf",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ]
+  },
+  {
+    "source": "http://www.setto.pl/img/cms/katalog/katalog-drzwi-zewnetrznych-setto-2020-2021.pdf",
+    "local": "/assets/documents/katalog-drzwi-zewnetrznych-setto-2020-2021-7248bccf.pdf",
+    "sha256": "7248bccff4bdf13dc86c555b34cbd3171892a13f6adef508670ca64d7dad0a09",
+    "bytes": 23911359,
+    "mime": "application/pdf",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-drewniane.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-drewniane.html",
+      "https://tomdarokna.pl/drzwi-zewnetrzne-stalowe.html"
+    ]
+  },
+  {
+    "source": "https://dre.pl/files/Katalog-DRE-2023-edycja-1.pdf",
+    "local": "/assets/documents/Katalog-DRE-2023-edycja-1-330ffcfe.pdf",
+    "sha256": "330ffcfe513ea5acbdfe635374de14da32c8bcdd01ee6a7afd8056b6d45b67ea",
+    "bytes": 50564063,
+    "mime": "application/pdf",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ]
+  },
+  {
+    "source": "https://gerda.pl/wp-content/uploads/2021/07/KATALOG-DDD-PL-03-2023_www.pdf",
+    "local": "/assets/documents/KATALOG-DDD-PL-03-2023_www-9f46bd60.pdf",
+    "sha256": "9f46bd604028d7baf0ade01a71c2c552f81079e415c683d6f253d2cdc9c57bdb",
+    "bytes": 20631271,
+    "mime": "application/pdf",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-zewnetrzne-stalowe.html"
+    ]
+  },
+  {
+    "source": "https://www.drzwivasco.pl/Folder-VASCO-edycja-21-FACH-2023-1.pdf",
+    "local": "/assets/documents/Folder-VASCO-edycja-21-FACH-2023-1-e42b21b6.pdf",
+    "sha256": "e42b21b6c5ee9904d1be1641a3f6856939127946d5f873e6af8cf008dd10f2e8",
+    "bytes": 5499271,
+    "mime": "application/pdf",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ]
+  },
+  {
+    "source": "https://www.porta.com.pl/phavi/at/upl/2023/0621/0634-katalog-porta-2023-2-pl.pdf?_gl=1*1cb0m6r*_up*MQ..*_ga*MjI2MDA1NjIzLjE2ODc1MjE4NDc.*_ga_XPTD542SW2*MTY4NzUyMTg0Ni4xLjEuMTY4NzUyMTg1MC4wLjAuMA..*_ga_RVLD2VQYC0*MTY4NzUyMTg0Ni4xLjEuMTY4NzUyMTg1MC4wLjAuMA..",
+    "local": "/assets/documents/0634-katalog-porta-2023-2-pl-324b653d.pdf",
+    "sha256": "324b653d50f0f22dda6ea528915eef15a96c111c8aa58d8ae9aad4b9025b86b2",
+    "bytes": 28575098,
+    "mime": "application/pdf",
+    "referencedBy": [
+      "https://tomdarokna.pl/drzwi-wewnetrzne-plytowe.html"
+    ]
+  }
+]

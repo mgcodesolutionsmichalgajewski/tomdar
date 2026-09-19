@@ -1,0 +1,62 @@
+[
+  {
+    "local": "/assets/web/hero.webp",
+    "derivedFrom": "/assets/products/1-6ae5d954.jpg",
+    "source": "https://tomdarokna.pl/assets/img/works/1.jpg"
+  },
+  {
+    "local": "/assets/web/about.webp",
+    "derivedFrom": "/assets/photos/about-3ae3319a.jpg",
+    "source": "https://tomdarokna.pl/assets/img/about.jpg"
+  },
+  {
+    "local": "/assets/web/profiles.webp",
+    "derivedFrom": "/assets/photos/profileokienne-72773763.jpg",
+    "source": "https://tomdarokna.pl/assets/img/profileokienne.jpg"
+  },
+  {
+    "local": "/assets/web/product1.webp",
+    "derivedFrom": "/assets/products/1-6ae5d954.jpg",
+    "source": "https://tomdarokna.pl/assets/img/works/1.jpg"
+  },
+  {
+    "local": "/assets/web/product2.webp",
+    "derivedFrom": "/assets/products/2-46eafc44.jpg",
+    "source": "https://tomdarokna.pl/assets/img/works/2.jpg"
+  },
+  {
+    "local": "/assets/web/product3.webp",
+    "derivedFrom": "/assets/products/3-dd530bc5.jpg",
+    "source": "https://tomdarokna.pl/assets/img/works/3.jpg"
+  },
+  {
+    "local": "/assets/web/product4.webp",
+    "derivedFrom": "/assets/products/4-1a2fbc45.jpg",
+    "source": "https://tomdarokna.pl/assets/img/works/4.jpg"
+  },
+  {
+    "local": "/assets/web/product5.webp",
+    "derivedFrom": "/assets/products/5-02d93fc6.jpg",
+    "source": "https://tomdarokna.pl/assets/img/works/5.jpg"
+  },
+  {
+    "local": "/assets/web/product6.webp",
+    "derivedFrom": "/assets/products/6-7932bec5.jpg",
+    "source": "https://tomdarokna.pl/assets/img/works/6.jpg"
+  },
+  {
+    "local": "/assets/web/product7.webp",
+    "derivedFrom": "/assets/products/7-e773c8ed.jpg",
+    "source": "https://tomdarokna.pl/assets/img/works/7.jpg"
+  },
+  {
+    "local": "/assets/web/product8.webp",
+    "derivedFrom": "/assets/products/8-587becef.jpg",
+    "source": "https://tomdarokna.pl/assets/img/works/8.jpg"
+  },
+  {
+    "local": "/assets/web/glowna1.webp",
+    "derivedFrom": "/assets/slider/glowna1-fcfbe41d.jpg",
+    "source": "https://tomdarokna.pl/assets/img/glowna1.jpg"
+  }
+]

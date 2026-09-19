@@ -1,0 +1,28 @@
+.callnow-button .callnow-phone::before {
+	content: '\f095';
+  position: fixed;
+  left: 5%;
+  bottom: 5%;
+  font-size: 50px;
+  color: #292929;
+  line-height: 1;
+  font-family: FontAwesome;
+  background: #f5b316;
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+  text-align: center;
+  padding-top: 13px;
+  border: 1px solid #fff;
+  box-shadow: 0 0 0 0 rgba(52,152,219,0),0 5px 10px rgba(0,0,0,0.2);
+  font-weight: 900;
+	z-index: 999;
+}
+@media (min-width: 992px) {
+  .callnow-button .callnow-phone::before {
+    display: none;
+  }
+}
+.testimonials ul li {
+	list-style: disc !important;
+}

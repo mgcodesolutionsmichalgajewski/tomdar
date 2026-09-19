@@ -1,0 +1,8 @@
+node_modules/
+dist/
+package-lock.json
+reference/
+public/assets/
+src/content/asset-library.json
+*.tsbuildinfo
+.env*
