@@ -36,7 +36,7 @@ export function Header() {
       <a className="skip-link" href="#main-content">
         Przejdź do treści
       </a>
-      <div className="topbar">
+      <div className="topbar" id="start">
         <div className="container">
           <span>Łyszkowice · województwo łódzkie</span>
           <div className="topbar-phones" aria-label="Telefony kontaktowe">
