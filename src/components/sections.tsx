@@ -284,7 +284,7 @@ export function Hero() {
               Poznaj nasze produkty <ArrowDown size={18} />
             </a>
             <a className="text-link" href="#kontakt">
-              Służymy radą <ArrowUpRight size={18} />
+              Skontaktuj się z nami <ArrowUpRight size={18} />
             </a>
           </div>
           <div className="hero-proof">
