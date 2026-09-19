@@ -1196,6 +1196,53 @@ summary:focus-visible {
   }
 }
 
+/* Entrance timing and distance shared with the portfolio project. */
+.reveal {
+  opacity: 0;
+  transform: translateY(24px);
+  transition:
+    opacity 0.65s ease,
+    transform 0.65s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+.hero-copy > .reveal:nth-child(2),
+.service-card.reveal:nth-child(3n + 2),
+.product-card.reveal:nth-child(even) {
+  transition-delay: 0.1s;
+}
+.hero-copy > .reveal:nth-child(3),
+.service-card.reveal:nth-child(3n + 3) {
+  transition-delay: 0.2s;
+}
+.hero-copy > .reveal:nth-child(4) {
+  transition-delay: 0.3s;
+}
+.hero-copy > .reveal:nth-child(5) {
+  transition-delay: 0.4s;
+}
+.reveal:focus-within {
+  opacity: 1;
+  transform: none;
+  transition-delay: 0s;
+}
+@media (prefers-reduced-motion: reduce) {
+  .reveal,
+  .reveal.is-visible {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+@media print {
+  .reveal {
+    opacity: 1;
+    transform: none;
+  }
+}
+
 /* Full-width photograph softly revealed from the text side. */
 .hero {
   position: relative;
