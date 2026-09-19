@@ -197,11 +197,25 @@ export function Contact() {
   );
 }
 export function Footer() {
+  function scrollToTop(event: React.MouseEvent<HTMLAnchorElement>) {
+    event.preventDefault();
+    window.history.replaceState(null, "", "#start");
+    document.getElementById("start")?.setAttribute("tabindex", "-1");
+    document.getElementById("start")?.focus({ preventScroll: true });
+    window.scrollTo({
+      top: 0,
+      left: 0,
+      behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches
+        ? "instant"
+        : "smooth",
+    });
+  }
+
   return (
     <footer className="footer">
       <div className="container footer-grid">
         <div className="footer-brand">
-          <a href="#start" aria-label="TOM-DAR — wróć na górę">
+          <a href="#start" onClick={scrollToTop} aria-label="TOM-DAR — wróć na górę">
             <img src={assets.logo} width="190" height="40" alt="TOM-DAR" />
           </a>
           <p>
@@ -255,7 +269,9 @@ export function Footer() {
           <strong>MG Code Solutions</strong>
           <ArrowUpRight size={14} aria-hidden="true" />
         </a>
-        <a href="#start">Wróć na górę ↑</a>
+        <a href="#start" onClick={scrollToTop}>
+          Wróć na górę ↑
+        </a>
       </div>
     </footer>
   );
