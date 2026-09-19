@@ -245,6 +245,16 @@ export function Footer() {
       </div>
       <div className="container footer-bottom">
         <span>© {new Date().getFullYear()} TOM-DAR</span>
+        <a
+          className="footer-credit"
+          href="https://mgcodesolutions.pl/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <span>Created by</span>
+          <strong>MG Code Solutions</strong>
+          <ArrowUpRight size={14} aria-hidden="true" />
+        </a>
         <a href="#start">Wróć na górę ↑</a>
       </div>
     </footer>
